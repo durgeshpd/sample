@@ -1,2 +1,2 @@
-str1 ="durgsh"
+str1 ="karansanth"
 print (str1[::-1])
