@@ -4,3 +4,4 @@ def greet(name):
 # Test case
 if __name__ == "__main__":
     print(greet("World"))  # Output: "Hello, World!"
+
